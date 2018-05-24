@@ -3,7 +3,7 @@
   "routes": {
     "/**": "index.html"
   },
-  "proxis": {
+  "proxies": {
     "/api": {
       "origin": "https://bwidder-backend.herokuapp.com/api"
     }
