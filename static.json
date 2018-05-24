@@ -5,7 +5,7 @@
   },
   "proxis": {
     "/api": {
-      "origin": "https://bwidder-backend.herokuapp.com"
+      "origin": "https://bwidder-backend.herokuapp.com/api"
     }
   }
 }
