@@ -1,0 +1,11 @@
+{
+  "root": "build/",
+  "routes": {
+    "/**": "index.html"
+  },
+  "proxis": {
+    "/api": {
+      "origin": "https://bwidder-backend.herokuapp.com"
+    }
+  }
+}
